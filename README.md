@@ -5,7 +5,7 @@ pulse
 
 youtube 影片
 
-[![youtube 影片](http://img.youtube.com/vi/yKFNPY44p6U/0.jpg)](http://www.youtube.com/watch?v=yKFNPY44p6U)
+[![youtube 影片](http://img.youtube.com/vi/yKFNPY44p6U/1.jpg)](http://www.youtube.com/watch?v=yKFNPY44p6U)
 
 說明
 
